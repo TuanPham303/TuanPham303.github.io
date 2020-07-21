@@ -1,1 +1,1 @@
-[visit my site](https://tuanpham303.github.io/){:target="_blank"}
+<a href="https://tuanpham303.github.io" target="_blank">visit my site</a>
