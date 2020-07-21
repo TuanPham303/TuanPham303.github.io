@@ -1,1 +1,1 @@
-<a href="https://tuanpham303.github.io" target="_blank">visit my site</a>
+[visit my site](https://tuanpham303.github.io/)
