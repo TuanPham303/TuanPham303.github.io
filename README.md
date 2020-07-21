@@ -1,1 +1,1 @@
-[visit my site](https://www.tuanpham303.github.io)
+[visit my site](https://tuanpham303.github.io/){:target="_blank"}
